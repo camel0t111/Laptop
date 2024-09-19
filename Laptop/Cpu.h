@@ -3,7 +3,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 class Cpu {
 private:
-    char name[50]; // fixed-size character array for name
+    char name[50];
     double price;
 public:
     Cpu(const char* name, double price);
