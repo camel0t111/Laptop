@@ -8,7 +8,7 @@
 
 class Laptop {
 private:
-    char model[50];   // fixed-size character array for model name
+    char model[50];
     double casePrice;
     Cpu cpu;
     RAM ram;
